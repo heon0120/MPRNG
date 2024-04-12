@@ -1,4 +1,4 @@
-# NPRNG
+# MPRNG
 Multiple Pendulum Random Number Generation
 ## 프로그램 구성:
 
