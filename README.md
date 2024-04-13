@@ -1,13 +1,5 @@
 # MPRNG
 Multiple Pendulum Random Number Generation
-## 프로그램 구성:
-
-
-fig.py: 다중 진자의 그래프를 Matplotlib을 사용하여 보여줍니다.
-
-gen.py: fig.py 코드를 응용하여 난수를 생성합니다.
-
-
 
 ## 프로그램 구성:
 
