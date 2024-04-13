@@ -1,7 +1,7 @@
 # MPRNG
 Multiple Pendulum Random Number Generation
 
-## 프로그램 구성:
+## 프로그램 구성
 
 
 fig.py: 다중 진자의 그래프를 Matplotlib을 사용하여 보여줍니다.
@@ -16,7 +16,7 @@ gen.py: fig.py 코드를 응용하여 난수를 생성합니다.
 
 
 
-## 사용 방법:
+## 사용 방법
 
 1. 이 저장소를 GitHub에 복제합니다.
 
@@ -106,7 +106,7 @@ dt = 0.01  # 시간 간격
 
 > dt: 각 시간 단계의 길이 (초)
 
-## 라이브러리:
+## 라이브러리
 
 numpy
 
