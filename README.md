@@ -1,5 +1,5 @@
 # MPRNG
-Multiple Pendulum Random Number Generation
+Multiple Pendulum Random Number Generation-조성헌
 
 ## 프로그램 구성
 
@@ -120,3 +120,4 @@ matplotlib
 
 ## 라이센스
 이 프로젝트는 MIT라이선스가 적용됩니다.
+
