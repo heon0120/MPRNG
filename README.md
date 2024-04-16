@@ -1,5 +1,5 @@
 # MPRNG
-Multiple Pendulum Random Number Generation-조성헌
+Multiple Pendulum Random Number Generation
 
 ## 프로그램 구성
 
